@@ -20,8 +20,8 @@
       background-color: blueviolet;
       color: aliceblue;
       margin: 20px;
-      padding: 10px;
-      border-radius: 5%;
+      padding: 10px 20px 10px;
+      border-radius: 30px;
       font-size: 1rem;
 }
 
@@ -43,8 +43,9 @@
       height: 25px;
       right: 10px;
       bottom: 10px;
+      cursor: pointer;
 }
 
 .notes p img:hover{
-      height: 30px;
+      height: 27px;
 }
